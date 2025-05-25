@@ -8,6 +8,7 @@
 - Hoàng Ngọc Nam 23020405
 - Phạm Hải Tiến 23020425
 
+Link báo cáo: https://docs.google.com/document/d/17OEoR_2H9a2R572VnBNL-sUASof7DqBUVqA43K1d7PY/edit?pli=1&tab=t.0
 
 ## Mô tả dự án 
 Dự án triển khai một hệ thống nhận diện khuôn mặt thời gian thực sử dụng **Docker**, bao gồm:
@@ -52,18 +53,9 @@ Sau khi các container đã được khởi chạy thành công, bạn có thể
 
 - 👤 **Giao diện nhận diện khuôn mặt (Frontend người dùng)**:  
   http://localhost:3000/
-Ảnh minh họa cho giao diện đăng nhập thành công:
-![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116089_dfffc63da4a6f0e579e808cd278ec2be.jpg)
 
 - 🔐 **Trang quản trị người dùng (Admin Dashboard)**:  
   http://localhost:8000/admin/
-Ảnh minh họa cho giao diện admin:
-![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116079_dda5dd4dcedb4cb6644f64c5293ed8a5.jpg)
-
-![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116088_2e00fb0117ffec14d49bb96d6bf82235.jpg)
-
-![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116124_7b9765f90c27176acb9b09a9d43d440f.jpg)
-
+  
 ---
-Link báo cáo: https://docs.google.com/document/d/17OEoR_2H9a2R572VnBNL-sUASof7DqBUVqA43K1d7PY/edit?pli=1&tab=t.0
 #### Chúc các bạn thành công
