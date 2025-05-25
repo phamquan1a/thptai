@@ -9,7 +9,9 @@ Dự án triển khai một hệ thống nhận diện khuôn mặt thời gian 
 ---
 
 ## 🧾 Hướng Dẫn Sử Dụng
-
+- liên kết Dockerhub:
+https://hub.docker.com/repository/docker/quan23020418/ait_backend/general
+https://hub.docker.com/repository/docker/quan23020418/ait_frontend/general
 ### 1. Lưu File Cấu Hình `docker-compose.yml`
 
 Tải và lưu file `docker-compose.yml`.
