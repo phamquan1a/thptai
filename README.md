@@ -8,7 +8,7 @@
 - Hoàng Ngọc Nam 23020405
 - Phạm Hải Tiến 23020425
 
-Link báo cáo: https://docs.google.com/document/d/17OEoR_2H9a2R572VnBNL-sUASof7DqBUVqA43K1d7PY/edit?pli=1&tab=t.0
+Link báo cáo: https://docs.google.com/document/d/17OEoR_2H9a2R572VnBNL-sUASof7DqBUVqA43K1d7PY/edit?pli=1&tab=t.0    (hoặc tải file Báo cáo Thực hành phát triển hệ thống Trí tuệ nhân tạo- Nhóm Asteroid Destroyer)
 
 ## Mô tả dự án 
 Dự án triển khai một hệ thống nhận diện khuôn mặt thời gian thực sử dụng **Docker**, bao gồm:
