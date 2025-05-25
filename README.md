@@ -47,14 +47,22 @@ docker-compose up -d
 ```
 
 
-### 3. Truy Cập Ứng Dụng
+### 4. Truy Cập Ứng Dụng
 Sau khi các container đã được khởi chạy thành công, bạn có thể truy cập các thành phần chính của hệ thống như sau:
 
 - 👤 **Giao diện nhận diện khuôn mặt (Frontend người dùng)**:  
   http://localhost:3000/
+Ảnh minh họa cho giao diện đăng nhập thành công:
+![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116089_dfffc63da4a6f0e579e808cd278ec2be.jpg)
 
 - 🔐 **Trang quản trị người dùng (Admin Dashboard)**:  
   http://localhost:8000/admin/
+Ảnh minh họa cho giao diện admin:
+![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116079_dda5dd4dcedb4cb6644f64c5293ed8a5.jpg)
+
+![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116088_2e00fb0117ffec14d49bb96d6bf82235.jpg)
+
+![](https://raw.githubusercontent.com/TubVP/test/0970bbd61e0ad602880bf202ada73e8a1a06737d/z6638264116124_7b9765f90c27176acb9b09a9d43d440f.jpg)
 
 ---
 
